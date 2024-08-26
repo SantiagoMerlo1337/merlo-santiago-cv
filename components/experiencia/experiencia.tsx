@@ -22,7 +22,7 @@ const Experiencia = () => {
                         JavaScript, React, CMS, entre otras.
                     </p>
                     <div className="flex gap-8 pt-4 pb-2 justify-center lg:justify-start">
-                        <Link href="/portafolio">
+                        <Link href="https://merlosantiago-pf.vercel.app/">
                             <button className="flex items-center gap-2 bg-gray-700 hover:bg-gray-800 text-white p-2 rounded-lg">
                                 <Image
                                     className="invert"
@@ -33,7 +33,7 @@ const Experiencia = () => {
                                 Portafolio
                             </button>
                         </Link>
-                        
+
                         <a href="/static/pdf/Merlo-Santiago_CV.pdf" download>
                             <button className="flex items-center gap-2 bg-gray-700 hover:bg-gray-800 text-white p-2 rounded-lg">
                                 <Image

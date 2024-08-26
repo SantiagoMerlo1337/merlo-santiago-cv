@@ -7,7 +7,7 @@ const Habilidades = () => {
                     <h4 className="h4">Desarrollo Web Full Stack</h4>
                     <p>
                         HTML, CSS, Bootstrap, Tailwind, JavaScript, TypeScript,
-                        Nextjs, Python Django, React, Material UI
+                        React, Nextjs, Astro, Python Django
                     </p>
                 </li>
                 <li className="mb-2">
@@ -16,7 +16,9 @@ const Habilidades = () => {
                 </li>
                 <li className="mb-2">
                     <h4 className="h4">Bases de Datos</h4>
-                    <p>SQL, OQL, SQL Server, MySQL, Modelado de datos</p>
+                    <p>
+                        SQL, OQL, SQL Server, MySQL, MongoDB, Modelado de datos
+                    </p>
                 </li>
                 <li className="mb-2">
                     <h4 className="h4">Controlador de versiones</h4>
