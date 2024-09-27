@@ -4,20 +4,19 @@ const Habilidades = () => {
             <h3 className="h3">Habilidades</h3>
             <ul className="list-none md:list-disc ms-0 md:ms-7">
                 <li className="mb-2">
-                    <h4 className="h4">Desarrollo Web Full Stack</h4>
+                    <h4 className="h4">Frontend</h4>
                     <p>
-                        HTML, CSS, Bootstrap, Tailwind, JavaScript, TypeScript,
-                        React, Nextjs, Astro, Python Django
+                        HTML, CSS, Bootstrap, Tailwind, Javascript, Typescript, React, Next js, Astro, Django
                     </p>
                 </li>
                 <li className="mb-2">
-                    <h4 className="h4">Programación</h4>
-                    <p>POO, C#, .NET, Python, MVC, API REST</p>
+                    <h4 className="h4">Backend</h4>
+                    <p>C#, .NET, Python, API REST, MVC</p>
                 </li>
                 <li className="mb-2">
                     <h4 className="h4">Bases de Datos</h4>
                     <p>
-                        SQL, OQL, SQL Server, MySQL, MongoDB, Modelado de datos
+                        SQL, MySQL, SQL Server, MongoDB, Modelado de datos
                     </p>
                 </li>
                 <li className="mb-2">
@@ -26,7 +25,11 @@ const Habilidades = () => {
                 </li>
                 <li className="mb-2">
                     <h4 className="h4">Otros</h4>
-                    <p>UML, Photoshop, Ilustrator, paquete Office</p>
+                    <p>UML, Adobe Photoshop e Illustrator, Inkscape, GIMP, paquete Office</p>
+                </li>
+                <li className="mb-2">
+                    <h4 className="h4">Idiomas</h4>
+                    <p>Español (Nativo), Inglés (Intermedio)</p>
                 </li>
             </ul>
         </section>
